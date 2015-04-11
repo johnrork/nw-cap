@@ -10,7 +10,7 @@ table{
     border-collapse: collapse;
 }
 td {
-    background: rgb(98, 165, 136);
+    background: #63a588;
     height: 200px;
 }
 td + td{
